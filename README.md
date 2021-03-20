@@ -22,8 +22,8 @@ Kod içerisinde ya da makaleler içerisinde hatalı bir yer görürseniz yeni bi
 
 Sevgiler ❤️
 
-[Blog adresim]: <https://blog.farukgenc.com/>
-[Default Metodlar, Fonksiyonel Arayüz Kavramı, Lambda İfadeleri, Metod Referansı]: <https://blog.farukgenc.com/java/java-8-yenilikleri-bolum-1.html>
-[Yardımcı Fonksiyonel Arayüzler ( Consumer, Predicate, Supplier, Function )]: <https://blog.farukgenc.com/java/java-8-yenilikleri-bolum-2.html>
-[Stream API ve En Çok Kullanılan Metodları (forEach, filter, map, reduce, count gibi)]: <https://blog.farukgenc.com/java/java-8-yenilikleri-bolum-3.html>
-[Optional Sınıfı ve Date&Time API]: <https://blog.farukgenc.com/java/java-8-yenilikleri-bolum-4.html>
+[Blog adresim]: <https://farukgenc.com/>
+[Default Metodlar, Fonksiyonel Arayüz Kavramı, Lambda İfadeleri, Metod Referansı]: <https://farukgenc.com/java/java-8-yenilikleri-bolum-1.html>
+[Yardımcı Fonksiyonel Arayüzler ( Consumer, Predicate, Supplier, Function )]: <https://farukgenc.com/java/java-8-yenilikleri-bolum-2.html>
+[Stream API ve En Çok Kullanılan Metodları (forEach, filter, map, reduce, count gibi)]: <https://farukgenc.com/java/java-8-yenilikleri-bolum-3.html>
+[Optional Sınıfı ve Date&Time API]: <https://farukgenc.com/java/java-8-yenilikleri-bolum-4.html>
